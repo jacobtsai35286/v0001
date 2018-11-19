@@ -452,4 +452,8 @@ public class FullscreenActivity extends AppCompatActivity implements Device.Dele
         RectF rect = calcViewScreenLocation(view);
         return rect.contains(x,y);
     }*/
+
+
+
+
 }
